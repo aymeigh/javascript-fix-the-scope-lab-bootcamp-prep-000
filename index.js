@@ -25,6 +25,7 @@ function funkyFunction (){
 }
 
 function funkyFunction (){
+  var theFunk = "FUNKY!"
   var theFunk = funkyFunction();
   return "FUNKY!";
   }
